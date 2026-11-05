@@ -7,3 +7,4 @@
 ### Hi, I'm Sam 
 
 Computer Science student at Exeter, graduating 2028
+My coursework and student projects live on my university account: [@SamDaviesExeter](https://github.com/SamDaviesExeter)
